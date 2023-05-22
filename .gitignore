@@ -1,0 +1,6 @@
+.*
+!.gitignore
+!.eslintrc.cjs
+!.prettierrc.json
+**/node_modules
+dist
